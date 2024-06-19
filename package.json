@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://miliviugithub.io/phmcdeathreport",
+  "homepage": "https://miliviu.github.io/phmcdeathreport",
   "eslintConfig": {
     "extends": [
       "react-app",
