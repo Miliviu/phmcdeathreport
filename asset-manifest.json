@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phmcdeathreport/static/css/main.82ab872c.css",
+    "main.js": "/phmcdeathreport/static/js/main.d9dc62ca.js",
+    "static/js/453.117fa109.chunk.js": "/phmcdeathreport/static/js/453.117fa109.chunk.js",
+    "index.html": "/phmcdeathreport/index.html",
+    "main.82ab872c.css.map": "/phmcdeathreport/static/css/main.82ab872c.css.map",
+    "main.d9dc62ca.js.map": "/phmcdeathreport/static/js/main.d9dc62ca.js.map",
+    "453.117fa109.chunk.js.map": "/phmcdeathreport/static/js/453.117fa109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ab872c.css",
+    "static/js/main.d9dc62ca.js"
+  ]
+}
