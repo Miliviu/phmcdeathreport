@@ -72,11 +72,11 @@ function App() {
 [center][b]A. WRITTEN REPORT[/b][/center]
 
 [list=none][color=transparent]spacer[/color]
-The County Coroner's Office has been called regarding the decease that occurred at the location of [b][${placeOfDeath}][/b]. Upon receiving the call from[b] [${departmentFullName(department)}][/b], Coroner's Office dispatched a ${jobClassification} to the crime scene to conduct an investigation on the [b][${dateTime}].
-[/b]
-The ${jobClassification}, [b][${coronerName}][/b], Serial Number[b] [${serialNumber}][/b], arrived at the scene and identified the individual as[b] [${decedentName}][/b], who was pronounced dead at [b][${pronouncedTimeOfDeath}][/b]. Following an initial investigation, The ${jobClassification} came up with the following [b]synopsis[/b]: [${synopsis}]
+The County Coroner's Office has been called regarding the decease that occurred at the location of [b]${placeOfDeath}[/b]. Upon receiving the call from[b] ${departmentFullName(department)}[/b], Coroner's Office dispatched a ${jobClassification} to the crime scene to conduct an investigation on the [b]${dateTime}[/b].
 
-Based on the information gathered from the scene investigation and the decedent's medical history (if available), the probable cause of death was determined to be [b][${probableCauseOfDeath}][/b]. The manner of death was classified as [b][${mannerOfDeath}][/b].
+The ${jobClassification}, [b]${coronerName}[/b], Serial Number[b] ${serialNumber}[/b], arrived at the scene and identified the individual as[b] ${decedentName}[/b], who was pronounced dead at [b]${pronouncedTimeOfDeath}[/b]. Following an initial investigation, The ${jobClassification} came up with the following [b]synopsis[/b]: ${synopsis}
+
+Based on the information gathered from the scene investigation and the decedent's medical history (if available), the probable cause of death was determined to be [b]${probableCauseOfDeath}[/b]. The manner of death was classified as [b]${mannerOfDeath}[/b].
 [/list]
 
 [list=none][color=transparent]spacer[/color][center][b]B. PHOTOGRAPHIC DOCUMENTARY RECORD[/b][/center]
